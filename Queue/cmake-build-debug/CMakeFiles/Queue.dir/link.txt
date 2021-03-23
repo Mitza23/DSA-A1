@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Queue.dir/App.cpp.o CMakeFiles/Queue.dir/ExtendedTest.cpp.o CMakeFiles/Queue.dir/Queue.cpp.o CMakeFiles/Queue.dir/ShortTest.cpp.o  -o Queue 

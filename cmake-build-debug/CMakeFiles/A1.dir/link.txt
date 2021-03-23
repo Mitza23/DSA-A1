@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/A1.dir/Queue/App.cpp.o CMakeFiles/A1.dir/Queue/ExtendedTest.cpp.o CMakeFiles/A1.dir/Queue/Queue.cpp.o CMakeFiles/A1.dir/Queue/ShortTest.cpp.o CMakeFiles/A1.dir/Stack/App.cpp.o CMakeFiles/A1.dir/Stack/ExtendedTest.cpp.o CMakeFiles/A1.dir/Stack/ShortTest.cpp.o CMakeFiles/A1.dir/Stack/Stack.cpp.o CMakeFiles/A1.dir/main.cpp.o  -o A1 
